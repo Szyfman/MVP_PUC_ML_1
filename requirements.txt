@@ -1,6 +1,5 @@
-pandas
-os-sys
-gdown
-scikit-learn
-matplotlib
-numpy
+pandas==2.2.2
+gdown==5.2.0
+scikit-learn==1.5.2
+matplotlib==3.8.0
+numpy==1.26.4
